@@ -1,5 +1,16 @@
 # Seen Items Index
 
+- 2026-09-25: BoE deputy gov Lombardelli (24 Sept) says hikes likely if energy prices stay elevated; Goldman/Barclays/UBS/JPM all call Nov 25bp hike, market pricing ~63-67%
+- 2026-09-25: UK Budget fiscal headroom cut from ~£23.6bn to ~£13bn (Aug deficit £18.3bn vs £15.5bn expected); LVT/CGT/wealth-levy rumours ahead of 28 Oct
+- 2026-09-25: Shopify x Meta "Muse" AI shopping agent — Shop Pay checkout inside Muse (21 Sept), Amazon excluded, stock +7%
+- 2026-09-25: Fed requests comment on GENIUS Act stablecoin rules (24 Sept) — US track vs UK's live 30 Sept gateway
+- 2026-09-25: Etsy September seller update — Shared Shop Access (up to 5 collaborators), expanded Appeals system, Shop Stats redesign + AI Stats beta (22 Sept)
+- 2026-09-25: TikTok Community Guidelines revision effective 24 Sept — disclosure/off-platform-promotion/AI-labelling tightened (compliance, not economics)
+- 2026-09-25: Instagram — nothing material changed since 24 Sept
+- 2026-09-25: RSA-260 factored by Cognition's Devin AI agent (~$400k, ~10x cheaper than prior state of the art)
+- 2026-09-25: North Pennines Stargazing Festival, 16 Oct-1 Nov 2026
+- 2026-09-25: Droga5 "Unmissable" Google Pixel 9a — Cannes Lions 2026 Film Grand Prix
+- 2026-09-25: DoubleLine "volatility laundering" in private credit paper (appraisal-based marks mask real risk)
 - 2026-09-24: BoE holds at 3.75% (6-3 vote), inflation forecast revised up to 4%+ by 2027 Q1 (Middle East-driven energy prices) — fixed-rate savings lock-in trade
 - 2026-09-24: TikTok Shop Seller Center navigation overhaul (7 Sept) + new packaging/fulfillment policy (3 Sept) ahead of holiday quarter
 - 2026-09-24: OpenAI Astra crosses "Critical" cybersecurity threshold (1 Sept); Google/Anthropic/OpenAI ship gated cyber models (Fairwind, Daybreak Blue) — mechanism behind 14 Sept cybersecurity rally

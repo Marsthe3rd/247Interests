@@ -1,5 +1,49 @@
 # Briefing Log
 
+## 2026-09-25
+
+### MONEY ON THE MOVE
+
+**1. A BoE hike is no longer a fringe dissent view — it's now the market's base case for November.** BoE Deputy Governor Clare Lombardelli said in a Warsaw speech (24 Sept) that rates "will likely have to rise" if energy prices stay elevated, explicitly warning about wage/price second-round effects. The same day, Goldman Sachs, Barclays, UBS and JPMorgan all moved their calls to a 25bp November hike, and market pricing shifted to ~63-67% probability (up from a 6-3 hold two weeks ago). Brent is up 26% since the July report (~$98/bbl) on the Iran conflict. Mechanism: this converts yesterday's brief's "rates might stay higher for longer" into "a hike is now more likely than not" — a materially bigger repricing than the hold itself. The trade: if you were already moving cash into fixed-rate products per yesterday's brief, this raises the case for locking in soon rather than waiting — a confirmed hike would likely push fixed rates up further, but it could also mean variable-rate/tracker exposure gets more expensive fast. Gilt curve is already reacting (10Y down to 5.20%, 30Y up to 5.83%), so SONIA-linked short-duration instruments are the cleanest way to express a "hike coming" view without taking curve risk.
+Cost: none beyond moving cash you already hold. Risk: this is still a probability, not a done deal — a weak data print before 5 Nov could reverse it.
+
+**2. UK Budget fiscal headroom has roughly halved since the summer, and specific tax mechanisms are now circulating rather than vague "revenue-raising" framing.** August's deficit came in at £18.3bn vs £15.5bn expected, and rising gilt yields have cut Healey's estimated headroom from ~£23.6bn to ~£13bn. Specific rumours now in circulation: swapping stamp duty and council tax for an annual ~1.3% land value tax, plus CGT changes and a possible wealth levy. Mechanism: a land-value-tax swap would be the biggest UK property tax shake-up in decades, directly repricing high-value property relative to lower-value regional property — very different from a generic "budget could raise taxes" line. The trade: if you (or the brand studio, once it's generating income) hold any property or are planning CGT-relevant disposals, model the LVT and CGT scenarios now, before 28 Oct — Budget tax changes sometimes take effect from the announcement itself, not the new tax year.
+Cost: an hour of scenario modelling. Risk: purely speculative until 28 Oct — none of this is confirmed policy yet, just where the rumour mill and fiscal arithmetic are pointing.
+
+**3. Shopify and Meta confirmed a partnership (21 Sept) putting Shop Pay-powered checkout inside Meta's "Muse" AI shopping agent — and Amazon is locked out of it.** Eligible Shopify stores become discoverable and directly checkout-able through Muse; Meta is positioning Shopify as its AI-commerce infrastructure layer, in explicit contrast to Amazon, which has blocked Muse from its catalogue. No new fee was disclosed — this is a new sales/discovery channel, not a pricing change, and Shopify stock rose ~7% on the news. Mechanism: early listing in a new AI-agent shopping surface is a classic "get there before it's saturated" window, same logic as being an early TikTok Shop or Etsy Instant-Checkout-in-ChatGPT seller. The trade: if you're running or advising any Shopify store (including for the brand studio's own future e-commerce work), check Muse eligibility and product-feed readiness now rather than after the channel is mainstream.
+Cost: time to check eligibility/feed setup. Risk: too early to know actual Muse traffic or conversion — pure discovery-channel land-grab, not a proven revenue source yet.
+
+### SIGNALS
+
+**1. The Fed just opened its own stablecoin authorisation track (24 Sept) — five days before the UK's gateway opens (30 Sept).** The Federal Reserve requested public comment on GENIUS Act implementation rules: reserve-backing requirements and a formal bank application pathway for payment stablecoins, with a 60-day comment period once published in the Federal Register — i.e. still proposal-stage, not open for applications yet. For the pivot: this sharpens rather than replaces the UK crypto-ops angle from earlier this week — the UK's FCA gateway (open now, closing 28 Feb 2027) is the faster, live track, while the US is still writing its rulebook. If you're positioning CV language toward digital-asset ops, the UK is the near-term first-mover jurisdiction to reference, not the US.
+
+**2. Etsy's September seller update is an operations upgrade, not an economics one — but it matters if the brand studio ever runs a multi-person shop.** Shared Shop Access (up to 5 collaborators under separate logins instead of sharing owner credentials), an expanded Appeals system for enforcement decisions (full rollout targeted by end of 2026), and a Shop Stats redesign with a wider AI Stats assistant beta all shipped 22 Sept. No fee change. Filed as a signal rather than a platform shift because the mechanism here is operational leverage (delegate shop management safely, better recourse if wrongly suspended) rather than a rules/algorithm change.
+
+### PLATFORM SHIFTS
+
+**TikTok Shop** — a platform-wide Community Guidelines revision took effect 24 Sept, tightening commercial-content disclosure rules, off-platform-promotion restrictions, and AI-content labelling. This is trust-and-safety policy, not a commission or algorithm change: the implication for sellers/affiliates is compliance risk (clearer disclosure requirements, stricter enforcement on driving traffic off-platform) rather than economics. No new commission or fee change confirmed beyond what's already on record.
+
+**Shopify** — covered above under Money on the Move: the Meta Muse agentic-checkout partnership (21 Sept) is the platform's most consequential move this week.
+
+**Etsy** — covered above under Signals: Shared Shop Access, expanded Appeals, and Shop Stats redesign (22 Sept).
+
+**Instagram** — nothing material changed since yesterday's brief. Mosseri's public defence of engagement-based ranking predates this window, and the "Bonuses" payout test for photo/carousel creators is still an unconfirmed, invite-only trial with no general-availability date.
+
+### QUICK HITS
+
+- **Tech/rabbit hole**: An AI coding agent (Cognition's Devin), not a person, did the engineering that factored RSA-260 — the largest number in RSA Labs' 1991 factoring challenge. A researcher gave Devin a single test GPU and asked for a GPU replacement for a CPU lattice-siever component; nine hours later it had a working, faster version, and weeks of Devin-managed cluster tuning got the full factorisation done for ~$400k, about 10x cheaper than prior state of the art. Worth tracking as a genuine "agentic AI is load-bearing here" data point rather than hype — RSA-2048, the number that actually matters for security, is roughly a billion times harder and untouched by this.
+- **Exploration**: North Pennines Stargazing Festival, 16 Oct–1 Nov, in England's largest Dark Sky Reserve — a dated, specific programme (guided astronomy, family nights, night walks), genuinely Manchester-reachable, not another generic "hidden gem" list entry.
+
+### TASTE FILE
+
+**Droga5's "Unmissable" for Google Pixel 9a — Cannes Lions 2026 Film Grand Prix.** A 90-second, near-silent film shot entirely on the phone it's advertising, which had already racked up 380 million organic views before the festival even opened. Why it works mechanically: the medium is the proof — you can't fake "great camera" while filming on the device itself, so the claim and the artifact are literally the same object; it's near-silent, which means it was built for sound-off autoplay feeds rather than adapted for them after the fact; and the organic reach preceded the paid/awards push, so the content system did the persuading before the brand system got any credit. Lesson for the brand studio: design the content so the making-of process is the argument, not a decoration bolted onto a separate campaign idea.
+
+### EDGE
+
+Contrarian read: private credit's famously low volatility is largely an accounting artifact, not real risk reduction — researchers are calling it "volatility laundering." A DoubleLine paper (Aug 2026) shows that because private credit funds mark positions via internal appraisal models rather than observable market prices, reported quarterly volatility is mechanically smoothed — measured annualised volatility rises the longer the return horizon you use, which is the signature of appraisal lag, not genuine stability. Fitch tracks a 5.7% default rate in the space versus managers self-reporting under 2%, and Goldman estimates roughly 15% of private-credit borrowers can't fully service interest from cash flow. Thesis: the Sharpe ratios being marketed to allocators are structurally inflated by the valuation methodology itself, independent of whether an actual credit crisis ever hits — relevant to anyone assessing buy-side credit roles or comp structures built on those marks. What would prove this wrong: private-credit marks moving in lockstep with public credit spreads during the next real stress event, rather than lagging and smoothing through it — that would mean the appraisal process is tracking reality, not obscuring it.
+
+(No USE WITH CAUTION section today — this cycle's counter-take and quiet-money searches surfaced only generic, interchangeable "boring business" listicle content with no single well-verified case; skipped rather than forced.)
+
 ## 2026-09-24
 
 ### MONEY ON THE MOVE
