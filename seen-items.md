@@ -38,3 +38,19 @@
 - 2026-09-22: Heineken Ireland "The Pub That Refused to Die" — Cannes Lions 2026 Creative Strategy Grand Prix
 - 2026-09-22: AI bubble/value-capture contrarian read (infra capex vs revenue capture shift)
 - 2026-09-22: Counter-take — online/retail arbitrage real margins now 10-20%, not a casual side hustle
+
+- 2026-09-26: Iran war escalation (Hormuz traffic down ~95%, Bab al-Mandeb blockade) driving UK 10Y gilt to 19yr high (~5.43%, 24-25 Sept), US 10Y to ~5.20% (2007 high); Iran 60-day ceasefire roadmap at UN 23 Sept, oil -3% 25 Sept on truce hopes; UK pump prices at 4yr highs
+- 2026-09-26: X "Original Content Rewards" replaces creator revenue-share (live 8 Sept, first payouts 25 Sept) — qualified-impressions-only, penalises reposts, native X Money instant payout, no $30 minimum
+- 2026-09-26: Gemini 3.8 Flash pricing scheduled to double ($0.75/$3.75 -> $1.50/$7.50 per M tokens) from 1 Jan 2027; GPT-6 Astra launched pricier than predecessor tier ($10/$50)
+- 2026-09-26: UK Cash ISA allowance cut confirmed (17 Sept) — £20k to £12k for under-65s from April 2027, uninvested S&S ISA cash to be taxed at 22%
+- 2026-09-26: EU de minimis loophole closed 1 July (€3/parcel duty on sub-€150 imports) — Shein/Temu restructuring EU ops; UK's £135 threshold survives to March 2029
+- 2026-09-26: Platform check — TikTok Shop/Shopify/Etsy/Instagram: nothing material changed this week; Shopify's Meta "Agentic" sales channel is opt-out by default (since 8 Sept)
+- 2026-09-26: Saturn south pole "decagon" (10-sided atmospheric wave) confirmed via Hubble, published in Science Advances
+- 2026-09-26: 390-million-year-old impact crater discovered in Quebec via satellite imagery (amateur find, NASA-confirmed)
+- 2026-09-26: Backrooms (A24, dir. Kane Parsons) — 87% RT, biggest original-horror opening weekend ever ($81.4M)
+- 2026-09-26: Dahlia Stereo — new Latin BBQ restaurant/music venue, Northern Quarter, Manchester
+- 2026-09-26: Mixland "Grey Matter" plugin — PS1 DAC-modelled saturation
+- 2026-09-26: McLaren unified brand identity (racing + automotive) launched 22 Sept — new wordmark/typeface, drawing "too luxury/not enough speed" criticism
+- 2026-09-26: Kalshi filed with CFTC (22 Sept) to allow margin trading on event contracts (elections/economics/commodities), proposed live 9 Nov
+- 2026-09-26: McKinsey AI-jobs data — actual AI headcount cuts (14%) below 2025 forecast (32%); 22-25yo AI-exposed entry-level employment 19% below trend
+- 2026-09-26: UK pawnbroking (Ramsdens RFX, H&T/FirstCash consolidation) riding gold price spike — FY26 profit guidance raised to £21m+
