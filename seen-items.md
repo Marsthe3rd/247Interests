@@ -54,3 +54,14 @@
 - 2026-09-26: Kalshi filed with CFTC (22 Sept) to allow margin trading on event contracts (elections/economics/commodities), proposed live 9 Nov
 - 2026-09-26: McKinsey AI-jobs data — actual AI headcount cuts (14%) below 2025 forecast (32%); 22-25yo AI-exposed entry-level employment 19% below trend
 - 2026-09-26: UK pawnbroking (Ramsdens RFX, H&T/FirstCash consolidation) riding gold price spike — FY26 profit guidance raised to £21m+
+
+- 2026-09-27: UK 10Y gilt eased to ~5.07% (from 5.43% peak), Brent ~$104 (from $109) on Iran ceasefire roadmap hopes; Houthi strikes on Saudi cities continue, ceasefire not implemented
+- 2026-09-27: TikTok Shop EU-UK cross-border pilot live (21 Sept), single-account access to 12 EU markets, full rollout 19 Oct; cross-border commission rate not yet published
+- 2026-09-27: UK Budget rumours sharpened — CGT-income-tax alignment estimated ~£14bn/yr (Kinnock push), £2m mansion-tax threshold rumoured to be lowered; LVT stamp-duty/council-tax swap reportedly downplayed
+- 2026-09-27: FCA cryptoasset authorisation gateway opens 30 Sept (in 3 days), applications open through 28 Feb 2027, regime starts Oct 2027
+- 2026-09-27: 2026 buy-side hiring commentary confirms narrow niche — control-function strengthening, automation/resilience/reg-change hiring, premium on risk talent bridging traditional + digital-asset ops
+- 2026-09-27: Etsy Shop Stats side-by-side graphs, quick-list testing, Appeals expansion continuing (follow-through on 22 Sept update, no new economics)
+- 2026-09-27: Claude Opus 5.5 ranks #1 on Blueprint-Bench 2 (floorplan-from-photos benchmark)
+- 2026-09-27: Vancouver Island subduction zone found tearing apart piece-by-piece (published 25 Sept)
+- 2026-09-27: Michaela Yearwood-Dan exhibition, The Whitworth Manchester, free entry, closes 18 Oct
+- 2026-09-27: Akamai x Anthropic $11.6bn (expandable to $20bn) 7-year cloud deal for CPU workloads, equity warrant to Anthropic — CDN/edge infra as under-hyped AI capex exposure
