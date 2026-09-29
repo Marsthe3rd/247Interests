@@ -65,3 +65,14 @@
 - 2026-09-27: Vancouver Island subduction zone found tearing apart piece-by-piece (published 25 Sept)
 - 2026-09-27: Michaela Yearwood-Dan exhibition, The Whitworth Manchester, free entry, closes 18 Oct
 - 2026-09-27: Akamai x Anthropic $11.6bn (expandable to $20bn) 7-year cloud deal for CPU workloads, equity warrant to Anthropic — CDN/edge infra as under-hyped AI capex exposure
+
+- 2026-09-29: UK 10Y gilt hit 5.44% (28 Sept, 2007 high), Brent $106.89 (+2.46% day) — reversed the 27 Sept ceasefire dip; BoE Nov hike odds now ~80.5% (from ~70%, from 63-67%)
+- 2026-09-29: Shopify WebMCP checkout expansion (28 Sept) — get_checkout/update_checkout/complete_checkout tools, any browser AI agent, all 2M+ merchants, buyer-confirmation required
+- 2026-09-29: Budget CGT rumours sharpen — Dale Vince publicly proposes 45% CGT (~£20bn claim); wealth tax reportedly ruled out by PM
+- 2026-09-29: FCA cryptoasset gateway opens 30 Sept 9am (tomorrow) — live date, applications through 28 Feb 2027
+- 2026-09-29: Consumer AI agents to infrastructure — Meta Muse for Mac (full desktop access), Google Labs "CC" household-logistics agent
+- 2026-09-29: TikTok Shop Singapore platform-commission-fee adjustment (1 Sept, all categories, rate undisclosed)
+- 2026-09-29: Etsy September "Newly Crafted" update — quick-list testing, custom-options management, third variation option, Policy Violations page detail
+- 2026-09-29: Strada browser-automation agent (24 Sept) — record/replay workflows in legacy carrier portals with run-time logging
+- 2026-09-29: Human brain evolved from two distinct fused ancient cellular lineages (neuroscience finding)
+- 2026-09-29: IRN-BRU "Tat-BRU" pop-up (Glasgow, Empire Ink) — free tattoos of new can designs, £8m "Made in Scotland from Girders" revival campaign

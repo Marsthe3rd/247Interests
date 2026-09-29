@@ -257,3 +257,47 @@ Skipped today — this cycle's rebrand searches (Carter's logo tweak, gFiber's n
 Contrarian read: the market is pricing the AI infrastructure boom as a GPU/Nvidia story, but the money is already diversifying into non-GPU infrastructure providers, and that's under-covered. Akamai just signed an $11.6bn, seven-year deal with Anthropic (24 Sept, expandable to $20bn) — explicitly to support Anthropic's *CPU* workload demand via Akamai's distributed cloud, not GPU training capacity. This is Akamai's largest deal ever, six times the size of a $1.8bn deal reported just four months earlier, and came with Anthropic taking an equity warrant in Akamai. Thesis: as inference and distributed serving (not just training) become the larger cost line for frontier labs, edge/CDN infrastructure incumbents — not just chip makers — are a second, less-hyped way to be exposed to AI capex growth. What would prove this wrong: no comparable AI-workload contract lands at any other CDN/edge player (Cloudflare, Fastly) over the next two quarters, meaning this was an Akamai-specific deal, not evidence of a category shift.
 
 (No USE WITH CAUTION section today — no counter-take or quiet-money candidate surfaced this cycle that wasn't either a repeat of last week's ground or generic listicle content; skipped rather than forced.)
+
+## 2026-09-29
+
+### MONEY ON THE MOVE
+
+**1. UPDATE — the gilt/oil "easing" from Tuesday's brief reversed within 24 hours: yields just hit a fresh 2007 high.** UK 10-year gilt yields jumped back up to 5.44% on 28 Sept — the highest since July 2007, above the ~5.43% peak from a week earlier — as Brent rose to $106.89 (+2.46% on the day, +2%+ on the week), undoing the ceasefire-driven dip to ~$104/5.07% flagged Sunday. In parallel, the market-implied probability of a November 5th BoE hike has climbed to ~80.5%, up from ~70% after Bailey's comments and from 63-67% when this was first flagged on the 25th. Mechanism: this isn't new information so much as confirmation that the "hold" case is eroding fast and in a straight line, not oscillating. Action: if you haven't locked fixed-rate cash yet, the case is now stronger, not weaker, than every prior brief — an 80% hike probability plus a fresh multi-decade yield high is closer to "priced as certain" than "possible."
+Cost: none beyond moving cash you hold. Risk: this is still a probability and a single day's print — a genuine, durable Iran de-escalation could still reverse both yields and hike odds fast.
+
+**2. Shopify quietly turned "AI agents can shop" into default platform infrastructure for 2 million-plus merchants — not just a Meta partnership.** On 28 Sept, a week after the Meta Muse tie-up covered here, Shopify expanded its WebMCP protocol so *any* browser-based AI agent (Muse, Perplexity's Instinct, others) gets three new tools — `get_checkout`, `update_checkout`, `complete_checkout` — letting an agent read a shopper's cart, change delivery/shipping, and submit the order once the buyer confirms. No screenshots or scraping; it's live infrastructure across Shopify's full merchant base, not a pilot. Mechanism: this converts "get one bespoke deal with one AI agent" into "every agent gets checkout access by default" — the land-grab window from last week's Muse story just widened to every agent vendor at once, and the moat that mattered (being Meta's chosen partner) is gone. Action: for any Shopify store you run or advise, this shifts urgency from "check Muse eligibility" to "get structured product data and PDP copy agent-legible" — an agent reading a checkout page doesn't see your merchandising, it sees your data.
+Cost: time to audit product-feed/structured-data quality. Risk: `complete_checkout` still requires buyer sign-off, so this isn't autonomous purchasing yet — actual agent-originated order volume this holiday quarter is the real test, and it's unproven.
+
+**3. UPDATE — Budget CGT rumours sharpened again, and a wealth tax is reportedly off the table.** Since Sunday's "~£14bn CGT-income-tax alignment" framing, Labour donor Dale Vince has publicly pushed raising CGT as high as 45% (claimed ~£20bn/year), while separate reporting says the PM has ruled out an annual wealth tax as unlikely to raise reliable money quickly. Net effect: the probability mass is consolidating on CGT specifically, away from a broader wealth levy. Action: if modelling pre-28 Oct CGT-relevant disposals (property, shares, brand-studio equity) per the last two briefs, model a scenario toward the higher end of the CGT range now under public discussion, not just "aligned with income tax."
+Cost: same hour of scenario modelling already flagged. Risk: still pre-Budget speculation — Vince's 45% figure is a donor's proposal, not a Treasury position.
+
+### SIGNALS
+
+**1. The FCA crypto gateway opens tomorrow, 9am — this is the live date, not a future window anymore.** Applications stay open through 28 Feb 2027 (full regime starts Oct 2027). If you were planning to set up saved-search/recruiter alerts around "cryptoasset authorisation" for the digital-asset-ops pivot, tomorrow is when the paper trail — and the hiring activity around it — actually starts.
+
+**2. Consumer-facing AI agents moved from demo to embedded infrastructure this week, on three fronts at once.** Alongside Shopify's checkout move above: Meta's Muse landed on macOS with full desktop access (apps, files, calendar, notes, messages), and Google Labs shipped "CC," a household-logistics agent syncing calendars/tasks across up to five family members and drafting school-paperwork replies. Why it matters for the pivot: fluency operating and directing these agents (not just using them passively) is becoming a baseline skill rather than a specialism — worth spending an hour actually driving Muse for Mac against real brand-studio admin/content workflows, since that's free reconnaissance on where the leverage is.
+
+### PLATFORM SHIFTS
+
+**Shopify** — this week's substantive move, covered above: WebMCP checkout expansion to all browser-based agents (28 Sept).
+
+**TikTok Shop** — nothing new economically beyond the EU-UK cross-border pilot already flagged; a Singapore platform-commission-fee adjustment took effect 1 Sept across all categories, but no comparable UK/EU change confirmed this cycle.
+
+**Etsy** — September's quarterly "Newly Crafted" update: a quick-list creation flow still in testing, easier custom-options management, a third listing variation option, and more detail added to the Policy Violations page. Continuity/tooling, not economics — same pattern as the last two cycles.
+
+**Instagram** — nothing material. No ranking/distribution change confirmed in July, August, or September; Mosseri's 10 Sept public defence of engagement ranking against Australian regulatory pressure remains a policy skirmish, not a product change.
+
+### QUICK HITS
+
+- **Tech & AI**: Strada shipped a browser-automation capability (24 Sept) that lets its agents record and replay workflows inside web-based carrier/legacy portals with full run-time logging — a concrete example of AI collapsing a specific, boring, time-costly workflow rather than another general-purpose chatbot story.
+- **Rabbit hole**: New research suggests the human brain didn't evolve as one system — it developed from two distinct ancient cellular lineages that fused, each originally doing a very different job. Reframes a settled area of neuroscience as still wrong in the details.
+
+### TASTE FILE
+
+IRN-BRU's "Tat-BRU" pop-up (Glasgow, Empire Ink, tied to an £8m brand investment reviving "Made in Scotland from Girders"): the brand noticed a genuinely unusual amount of fans already tattoo its logo, and instead of just launching new can art, it opened a studio offering free tattoos of the new designs to existing devotees. Why it works: it doesn't manufacture a stunt — it takes real, pre-existing superfan behaviour and turns it into the campaign mechanic itself, which is a sharper packaging-rebrand playbook than a straight repaint.
+
+### EDGE
+
+Contrarian read: the consensus frames this week's gilt/oil spike as an Iran-conflict side-effect that unwinds once there's a real ceasefire. But the underlying UK drivers — fiscal headroom roughly halved since summer, a Budget that looks tax-raising almost whatever happens on 28 Oct, and a BoE that's now ~80% priced for a hike — predate the current Iran flare-up and don't depend on it. Thesis: even a durable Middle East de-escalation only partially unwinds UK yields, because domestic fiscal and inflation dynamics are now doing more of the work than geopolitics. What would prove this wrong: a genuine 30+ day ceasefire that sends gilt yields back under 5% without any accompanying dovish shift from the BoE.
+
+(No USE WITH CAUTION section today — nothing this cycle cleared the bar for either subsection without being manufactured; skipped rather than forced.)
