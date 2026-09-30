@@ -301,3 +301,44 @@ IRN-BRU's "Tat-BRU" pop-up (Glasgow, Empire Ink, tied to an £8m brand investmen
 Contrarian read: the consensus frames this week's gilt/oil spike as an Iran-conflict side-effect that unwinds once there's a real ceasefire. But the underlying UK drivers — fiscal headroom roughly halved since summer, a Budget that looks tax-raising almost whatever happens on 28 Oct, and a BoE that's now ~80% priced for a hike — predate the current Iran flare-up and don't depend on it. Thesis: even a durable Middle East de-escalation only partially unwinds UK yields, because domestic fiscal and inflation dynamics are now doing more of the work than geopolitics. What would prove this wrong: a genuine 30+ day ceasefire that sends gilt yields back under 5% without any accompanying dovish shift from the BoE.
 
 (No USE WITH CAUTION section today — nothing this cycle cleared the bar for either subsection without being manufactured; skipped rather than forced.)
+
+## 2026-09-30
+
+### MONEY ON THE MOVE
+
+**1. Meta launched "Muse for Small Business" (29 Sept) — free agent that plugs directly into a content/brand-studio stack.** It connects to Shopify, Canva, Klaviyo, Stripe, Notion, Dropbox, Figma, Asana, Slack, Zoom, Intuit QuickBooks, plus Instagram/Facebook business accounts and Meta ad accounts — and Meta says it's built to "know what a business sells, how a brand sounds." Mechanism: Meta is giving away persistent-agent tooling to lock in SMB/creator-studio workflows before OpenAI's competing product (see below) reaches that segment. Action: connect it to a real brand-studio workflow this week — ad account monitoring, FAQ triage, or a content-calendar draft — while it's free with usage limits, before Meta narrows the free tier once adoption is proven.
+Cost: an hour to connect and test. Risk: early agent output on brand voice/tone will need heavy editing; treat it as a co-pilot, not a hire, until proven.
+
+**2. Amazon rolled out a free "always-on" agentic Seller Assistant for third-party sellers (23 Sept, US beta) that plugs into Anthropic's Claude.** It monitors pricing, inventory, ratings and competitor moves continuously and acts in plain-language-defined workflows without you being logged into Seller Central. Mechanism: Amazon is commoditising the ops layer of running a store — the same "boring but time-costly" work AI keeps collapsing (see Strada, 24 Sept, still running). Action: if you or anyone you advise sells on Amazon US, get on the beta now — free tooling access before it's gated or before every competitor is running the same automation and the edge disappears.
+Cost: none (free, opt-in). Risk: US-only beta; international rollout timing unconfirmed, and "always-on" pricing changes are common once free-beta traction is proven.
+
+### SIGNALS
+
+**1. The agent-monetisation models of the two biggest labs are diverging hard, and it tells you where to build.** OpenAI's "Dots" (launched 29 Sept at DevDay — always-on agents with their own cloud computer/browser, connected to 4,000+ apps) are locked behind the $200/mo ChatGPT Pro or Business Premium tier, with no published per-task pricing. Meta's Muse for Small Business, launched the same day, is free with usage limits. Why it matters for you: for a capital-limited studio, the free distribution play (Meta, already sitting on your Instagram/Facebook business accounts) is the one worth building workflows on now; the premium play (OpenAI) is one to watch, not pay into, until the pricing settles.
+
+**2. FCA's crypto authorisation gateway went live at 9am today (UPDATE — this is the date itself, not a countdown anymore).** Applications stay open to 28 Feb 2027; full regime starts 25 Oct 2027. This is the point where the hiring paper trail for the digital-asset-ops pivot actually starts generating — if you haven't set saved-search alerts for "cryptoasset authorisation" + ops/compliance roles, today is when they'll start returning results, not before.
+
+### PLATFORM SHIFTS
+
+Nothing material this cycle on any of the four tracked platforms. TikTok Shop pushed a Seller Center navigation reshuffle (7 Sept) and a community-guidelines update (24 Sept) — both continuity, no economics. Shopify, Etsy and Instagram: no new policy, algorithm or commission changes since last week's briefings. Said plainly rather than stretched: a quiet week on this front.
+
+### QUICK HITS
+
+- **Tech & AI**: Alibaba's new "Agent Context" memory layer (AgentCore platform) cuts token usage up to 67% in knowledge-heavy agent workflows by giving agents real-time + long-term memory instead of re-feeding context every call — a genuine cost-mechanism fix, not just another agent wrapper.
+- **Rabbit hole**: astronomers found a dead white dwarf with no visible surrounding disk that's somehow been driving a powerful shockwave for at least 1,000 years — the energy source powering it doesn't fit the standard model, and nobody has a clean explanation yet.
+- **Entertainment**: "The History of Concrete" — John Wilson's (How To with John Wilson) feature directorial debut, released 18 Sept, turns the most unglamorous building material on earth into his signature deadpan-curious documentary style. Very online buzz good.
+- **Exploration**: Chotto Matte (Nikkei — Japanese-Peruvian) opens 10 Oct inside Gary Neville's No.1 St. Michael's development, Manchester — worth a look for both the food and studying how a hospitality group builds a "destination" launch around a single development.
+
+### TASTE FILE
+
+Kopparberg's "Brings the Sunshine" (agency Neverland): a guy carries a giant disco mirrorball across town — onto a bus, up a hill — to a garden hangout. It scored a 5.0/5.0 on System1's ad-testing platform, one of only eight UK beer/cider ads ever to hit that ceiling in a category System1 says usually produces "solid but unexceptional" work. Why it works: it doesn't compete on the category's usual visual language (pints, banter, sunshine clichés) — it finds a genuinely odd, specific image (a mirrorball, not a beach ball) and commits to it completely, silly and charming rather than clever. That's the transferable lesson: distinctiveness comes from a strange-but-specific prop or ritual, not from a bigger stunt.
+
+### EDGE
+
+Contrarian read: the consensus take on the OpenAI-vs-Meta agent split is "OpenAI has the better model, so it wins eventually." The counter-thesis: distribution beats model quality here, because Meta already owns the small-business audience through Instagram/Facebook business accounts and ad relationships — giving Muse away for free converts an existing relationship into a workflow lock-in before OpenAI's paywall reaches that segment at all. The moat that compounds isn't reasoning quality, it's who already has the account. What would prove this wrong: SMBs paying $200/mo for Dots anyway because Muse's free tier proves too limited for real work, or OpenAI cutting Dots pricing sharply to chase the same distribution before Meta locks it in.
+
+### USE WITH CAUTION
+
+**THE COUNTER-TAKE**: The current wave of "boring businesses making millions in 2026" content (laundromats, parking lots, cleaning services) quietly assumes capital you don't have — the widely repeated "$600k/year almost passively" parking-lot claim requires owning or leasing multiple lots outright. It's evergreen content-marketing bait for a course or newsletter, not a low-capital path; the profitable, sub-£1k-entry version of these ideas is the service-labor part (bookkeeping, one-truck lawn care), not the asset-ownership part the headlines lead with.
+
+(No QUIET MONEY item today — nothing found this cycle was specific and fresh enough to clear the bar without repeating a generic listicle; skipped rather than forced.)

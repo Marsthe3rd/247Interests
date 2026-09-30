@@ -76,3 +76,15 @@
 - 2026-09-29: Strada browser-automation agent (24 Sept) — record/replay workflows in legacy carrier portals with run-time logging
 - 2026-09-29: Human brain evolved from two distinct fused ancient cellular lineages (neuroscience finding)
 - 2026-09-29: IRN-BRU "Tat-BRU" pop-up (Glasgow, Empire Ink) — free tattoos of new can designs, £8m "Made in Scotland from Girders" revival campaign
+
+- 2026-09-30: Meta "Muse for Small Business" launch (29 Sept) — connects Shopify/Canva/Klaviyo/Stripe/Notion/Asana/IG-FB business accounts
+- 2026-09-30: OpenAI DevDay — "Dots" always-on agents launched, gated to $200/mo Pro/Business Premium tier
+- 2026-09-30: Amazon agentic Seller Assistant for 3P sellers (23 Sept, US beta, free, integrates Claude)
+- 2026-09-30: FCA cryptoasset gateway opened live 9am today (UPDATE: the actual live date, not a countdown)
+- 2026-09-30: TikTok Shop Seller Center nav reshuffle (7 Sept) + community guidelines update (24 Sept) — continuity only
+- 2026-09-30: Alibaba AgentCore "Agent Context" memory layer — cuts token usage up to 67%
+- 2026-09-30: Dead white dwarf with no disk driving 1,000+ year shockwave, unexplained energy source
+- 2026-09-30: "The History of Concrete" — John Wilson's directorial feature debut (18 Sept)
+- 2026-09-30: Chotto Matte Nikkei restaurant opening 10 Oct, Gary Neville's No.1 St. Michael's, Manchester
+- 2026-09-30: Kopparberg "Brings the Sunshine" (agency Neverland) — 5.0/5.0 System1 score, one of 8 ever in UK beer/cider category
+- 2026-09-30: Counter-take — "boring business" 2026 content overstates low-capital accessibility of asset-heavy models (parking lots, laundromats)
