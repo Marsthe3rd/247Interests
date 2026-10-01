@@ -88,3 +88,16 @@
 - 2026-09-30: Chotto Matte Nikkei restaurant opening 10 Oct, Gary Neville's No.1 St. Michael's, Manchester
 - 2026-09-30: Kopparberg "Brings the Sunshine" (agency Neverland) — 5.0/5.0 System1 score, one of 8 ever in UK beer/cider category
 - 2026-09-30: Counter-take — "boring business" 2026 content overstates low-capital accessibility of asset-heavy models (parking lots, laundromats)
+
+- 2026-10-01: Shopify market-driven shipping rollout begins (1 Oct) — fixes stacked/inflated shipping rates at checkout, merchant opt-in now, mandatory July 2027
+- 2026-10-01: SKILL.md portable agent-skill format (Claude Code/Codex/Cursor/Gemini CLI) + nascent skills marketplace layer forming
+- 2026-10-01: Buy-side ops hiring 2026 — shift toward contract/project roles tied to automation rollouts, not permanent headcount
+- 2026-10-01: UK Autumn Budget date locked: Wednesday 28 October 2026 (earliest since 2021); CGT "uplift on death" removal most-floated unconfirmed lever
+- 2026-10-01: Instagram algorithm quantified — watch-time+replay over views, original content +40-60% distribution, 10 reposts/30 days = recommendation exclusion, 5-hashtag cap
+- 2026-10-01: TikTok Shop and Etsy — no material policy/economics change since last briefing (continuity only)
+- 2026-10-01: Three AI coding agents (Cursor, Anthropic, Alibaba) launched within 72 hours, pushing price floor on AI dev-intelligence pricing
+- 2026-10-01: Stanford NLP study predicts child mental-health risk from stress-interview speech patterns, beats expert panel accuracy
+- 2026-10-01: Oxford focused-ultrasound amygdala study shows reversible causal link to emotional behaviour toward ambiguous faces
+- 2026-10-01: Manchester Literature Festival, 9-25 October 2026
+- 2026-10-01: KFC x Ogilvy Australia "Postie Hijack" postcard stunt — taste file example, zero-budget reactive PR
+- 2026-10-01: Edge/contrarian — Instagram "fairer algorithm" framing actually raises production bar for low-capital curation accounts (repost cap)

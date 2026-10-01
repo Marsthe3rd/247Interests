@@ -342,3 +342,42 @@ Contrarian read: the consensus take on the OpenAI-vs-Meta agent split is "OpenAI
 **THE COUNTER-TAKE**: The current wave of "boring businesses making millions in 2026" content (laundromats, parking lots, cleaning services) quietly assumes capital you don't have — the widely repeated "$600k/year almost passively" parking-lot claim requires owning or leasing multiple lots outright. It's evergreen content-marketing bait for a course or newsletter, not a low-capital path; the profitable, sub-£1k-entry version of these ideas is the service-labor part (bookkeeping, one-truck lawn care), not the asset-ownership part the headlines lead with.
 
 (No QUIET MONEY item today — nothing found this cycle was specific and fresh enough to clear the bar without repeating a generic listicle; skipped rather than forced.)
+
+## 2026-10-01
+
+### MONEY ON THE MOVE
+
+**1. Shopify's "market-driven shipping" starts rolling out today (1 Oct) — it kills stacked/inflated shipping rates at checkout.** Mechanism: shipping options now live inside Markets, and Shopify charges the single highest matching rate instead of adding multiple matching rates together — the bug/misconfiguration that's been quietly inflating buyer-facing shipping costs on a lot of stores without the merchant realising. Action: if you run or advise any Shopify store, open Settings → Shipping and Delivery today, check for a compatibility warning on your apps, and audit whether your current profile is double-charging on multi-condition rates. Fixing this before July 2027 (when it becomes mandatory for everyone) is a cart-abandonment win you can claim now, for free, while most merchants haven't looked.
+Cost: ~1 hour audit, zero spend. Risk: opting in early breaks checkout if a third-party shipping app you depend on isn't yet marked compatible — check the warning before toggling anything.
+
+**2. SKILL.md is emerging as a portable, cross-agent packaging format (Claude Code, Codex CLI, Cursor, Gemini CLI all read the same file) — and a "skills marketplace" layer is visibly forming around it.** This is speculative — no monetised marketplace has gone live yet — but the format itself is open and free to build on right now, before a distribution layer locks in winners. Action: package 2-3 of your own repeatable workflows (ops/reporting routines, or brand-studio content-system steps) as SKILL.md files now. Low-capital, skill-based, and positions you to be an early seller/contributor the moment a marketplace with real monetisation opens, rather than starting from zero then.
+Cost: your time only. Risk: this is a bet on the format's distribution layer maturing — there is no confirmed way to earn from it yet, so don't expect near-term payoff.
+
+### SIGNALS
+
+**1. Buy-side ops hiring in 2026 is tilting toward contract/project roles tied specifically to automation rollouts, not permanent headcount.** What happened: firms are hiring for AI/automation transformation projects on a contract basis because they don't want to commit to BAU headcount once the project (and the automation) is done. Why it matters: the realistic entry route into buy-side middle office right now is probably a fixed-term automation/transformation contract, not a permanent hire — which changes how you should be positioning your CV and applications (pitch yourself as the person who can run the automation project, not just staff the resulting role).
+
+**2. The UK Autumn Budget date has moved from rumour to a locked date: Wednesday 28 October 2026** — earliest Budget since 2021. The most-floated (still unconfirmed) CGT lever is ending the "uplift on death" rule, not a straight rate rise. Why it matters for you: you don't have the capital position for pre-Budget CGT crystallisation to matter, but if you incorporate the brand studio or start taking freelance/dividend income, any structuring decision should wait until after 28 Oct rather than being made on rumour — four weeks of certainty on timing, zero on content.
+
+### PLATFORM SHIFTS
+
+**Instagram — real, quantified change.** "Your Algorithm" per-user controls are now live worldwide; ranking has shifted from view-count to watch-time + replay rate; original content gets a measured 40-60% distribution advantage over reposts; accounts posting 10+ reposts in 30 days are excluded from recommendations entirely; hashtags are capped at five. This directly changes brand-studio content strategy: low-effort curation/repost accounts just got materially more expensive to run, original formats got cheaper (relatively) to distribute.
+
+**Shopify** — see Money on the Move #1 (market-driven shipping, live today).
+
+**TikTok Shop and Etsy** — nothing material since the last briefing. TikTok Shop's only change (Seller Center nav reshuffle, guidelines update) was continuity, not economics. Etsy's appeals-expansion rollout is still the same in-progress item as before, no new policy. Said plainly: a quiet cycle on both.
+
+### QUICK HITS
+
+- **Tech & AI**: Three AI coding agents (Cursor, Anthropic, Alibaba) launched within 72 hours of each other this week, and the clustering is pushing a real price floor into what developers pay for model intelligence — worth watching if you ever price AI-assisted dev work.
+- **Learning**: Stanford researchers fed NLP models interview recordings of 200+ kids aged 9-13 talking about stressful events, and the models predicted later mental-health risk more accurately than a panel of human experts — a genuine mechanism, not a vibes-based AI-psychology claim.
+- **Rabbit hole**: An Oxford team used low-intensity focused ultrasound to temporarily dial activity in the amygdala up or down in healthy volunteers, and watched behaviour toward ambiguous faces shift in real time — one of the first non-invasive, reversible demonstrations of a direct causal (not just correlational) link between a specific brain region and emotional behaviour.
+- **Exploration**: Manchester Literature Festival runs 9-25 October — worth a scan of the programme for anything brand/content/writing-craft adjacent.
+
+### TASTE FILE
+
+**KFC x Ogilvy Australia, "Postie Hijack."** After a postal worker was sacked for an unauthorised hour-long KFC run and lost his unfair-dismissal claim, KFC mailed postcards addressed from KFC to KFC itself to its own restaurants nationally — any postie who delivered one got a free meal, no questions asked. Why it works: zero production budget (it's literally postage), built entirely from a news story that was already circulating, and the mechanic (postcards to itself) is specific and odd enough to be worth repeating online rather than a generic "great treat/stand with posties" message. The transferable lesson: the fastest, cheapest distribution is riding a real event with a literal, concrete prop — not producing more content.
+
+### EDGE
+
+Contrarian read on the Instagram changes above: the consensus take is "original content now wins, the algorithm got fairer." The counter-thesis: for someone without production capacity, the real story is that the cheap path — curation, reposting, aggregation — just got capped (10 reposts/30 days and you're excluded from recommendations entirely), which raises the production bar rather than lowering it. This "fairness" update mainly protects accounts that can already produce volume; it doesn't help a low-capital operator who was relying on curation as a bridge format. What would prove this wrong: curated/aggregator accounts staying under the repost threshold and still growing reach — if that holds, the cap is a minor tax, not a format-killer.
