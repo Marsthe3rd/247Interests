@@ -101,3 +101,16 @@
 - 2026-10-01: Manchester Literature Festival, 9-25 October 2026
 - 2026-10-01: KFC x Ogilvy Australia "Postie Hijack" postcard stunt — taste file example, zero-budget reactive PR
 - 2026-10-01: Edge/contrarian — Instagram "fairer algorithm" framing actually raises production bar for low-capital curation accounts (repost cap)
+
+- 2026-10-02: Anthropic IPO delayed Oct→Nov (1 Oct roadshow mid-Oct, listing post-Q3) to justify $965bn→$2T valuation jump; funding arc $124m (2021) to $965bn (May 2026), $8bn 2025 operating loss on 12x revenue growth
+- 2026-10-02: Amazon $8bn Nvidia Grace Blackwell chip SPV off-balance-sheet leaseback (1 Oct) — joins Meta/Oracle "shadow borrowing" pattern (BIS term), hyperscaler debt-to-capex 9%→32% FY24→FY26
+- 2026-10-02: DeepSeek open-sources TileLang + Ascend chip toolkit (30 Sept) — CUDA-alternative software play with Huawei, threatens Nvidia's developer-lock-in moat rather than its chip speed
+- 2026-10-02: BoE Nov 5 hike odds now ~88% (from ~80.5%, from 63-67%); Budget (28 Oct) and rate decision (5 Nov) 8 days apart
+- 2026-10-02: UK mansion-tax threshold modelling sharpens to £1.5m specific figure — Hamptons (+112k homes) vs Tax Policy Associates (+160k) diverging estimates
+- 2026-10-02: Ecover x Uncommon "The Unwashables" — four unwashable superstition-dyed t-shirts, Sustainable Fashion Week tie-in (insight: 30% of Brits avoid washing "lucky" clothes)
+- 2026-10-02: Armadin $255.5m Series B (a16z/Accel, Kevin Mandia) at $2.5bn+ valuation — autonomous AI attack-simulation/continuous red-teaming category
+- 2026-10-02: Science journal study — SES, not IQ, explains most brain-connectivity "intelligence" signatures in ABCD study (649 variables)
+- 2026-10-02: CorelDRAW September update ships built-in AI text-to-vector generation
+- 2026-10-02: "Tip Toe" (Russell T Davies, Starz, Manchester-set, Alan Cumming) premiered 2 Oct, Metascore 86
+- 2026-10-02: Portico Library Manchester "Witches & Healers" exhibition opens 9 Oct (Rosie Reed Hillman)
+- 2026-10-02: Edge/contrarian — hyperscaler SPV wave as pre-positioning risk transfer to bondholders ahead of a capex-monetisation reckoning, not neutral balance-sheet hygiene
