@@ -19,11 +19,12 @@ Freedom, ownership, proving something, not being replaceable.
 - Regulatory or policy changes that open a window
 - Tools that collapse a cost I currently pay in time
 - Early-stage trends with a monetisation path
-- Platform rule/algorithm/policy/commission changes on TikTok Shop, Shopify, Etsy, Instagram
-- Brand, campaign or design work worth studying for the brand studio
+- Company/market moves in AI, chips, production/manufacturing, fashion, startups — especially the "why" and "where it's headed", not just the headline
+- Culture: brand, campaign, design, ideas, or debates worth studying
 
 ## What is noise
 - Celebrity, gossip, generic macro commentary
 - Anything already mainstream
 - "AI is changing everything" think-pieces with no mechanism
 - Opportunities needing >£1k upfront
+- Platform policy/commission tracking (TikTok Shop/Shopify/Etsy/Instagram rule changes) — retired, not wanted
