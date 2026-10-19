@@ -15,6 +15,8 @@ This file is your evolving editorial sensibility for this briefing. Update it a 
 - A single-site or single-company thread sharpens materially when a sector-wide tracker shows the same mechanism running broadly — converts "one site's bad luck" into "structural."
 - A fast seed-to-mega-round valuation re-rate (weeks, not months) is a repeatable tell for where capital is actually rotating — now observed twice for narrow, embeddable "AI-as-utility" products rather than chat interfaces; worth flagging a third instance as a named pattern, not re-describing from scratch.
 - A Culture pick lands when it extracts a transferable mechanism from *why* something is good/honored, not just that it won/launched — the insight is the story, execution is secondary.
+- When a day's fresh sweep for new present-tense triggers comes up empty, the next-best source of signal is a backward check against an already-tracked thread's open watch-point (an "emerging pattern" line asking "watch for X") — a specific, named resolution to that watch-point still clears the bar even if the underlying event is a few weeks old, because it closes a loop the reader is already following rather than restating one.
+- A company's own conceded, on-the-record response to a specific user complaint (not a PR statement) is strong grounding even from a single original reporter, if the company's own spokespeople corroborate the core fact while disputing the framing — the conceded fact is the signal, the disputed framing is color.
 
 ## What's not landing
 - Routine "model X% cheaper than model Y" pricing-war items are too repetitive now — only include if it reveals a new mechanism.
@@ -26,7 +28,8 @@ This file is your evolving editorial sensibility for this briefing. Update it a 
 
 ## Emerging pattern (live threads to keep tracking)
 - AI buildout stress test, by layer: chip-equipment capex and bank credit exposure have both been reporting clean for weeks; the two live channels are (a) data-center permitting/political opposition (now confirmed structural, 49 states, not one site — Oracle's Project Jupiter is the most-tracked instance and keeps slipping its own deadlines via different mechanisms) and (b) the bare hyperscaler revenue math against capex (watch Meta's 21 Oct earnings as the first real test).
-- AI-cyber-risk thread (Mythos/Glasswing access expansion, Dimon's solo "tenfold" framing) has gone quiet since mid-Oct — watch for either a new access-count disclosure or another bank CEO echoing the framing.
+- AI-cyber-risk thread (Mythos/Glasswing access expansion, Dimon's solo "tenfold" framing) — resolved differently than expected: not another bank CEO echo, but Amazon/Microsoft/Google CEOs formally joining Dimon's Alliance for Critical Infrastructure (confirmed 30 Sept, logged 19 Oct). Watch next for the ACI's first disclosed output (a framework, an incident, a disclosed mitigation) rather than more membership news.
+- Meta/Muse trust thread (new 19 Oct): Sept 19 iMessages misrepresentation incident vs Oct 12 "Active Memory" pitch vs 21 Oct earnings — watch whether the earnings call or any post-launch coverage addresses agent-transparency/auditability at all.
 - Anthropic's IPO path: investor day held with literally zero outside account of its content (now multiple days running) — the silence itself is the story; roadshow reportedly slipped to week of 9 Nov.
 - AI-agent-harm → legal process is running as a self-regulation throughline (lab self-polices a failure mode just ahead of a voluntary accord, regulator opens a probe anyway) — external enforcement and self-policing in parallel, not substitutes.
 - Named-prize calendar: Booker winner 9 Nov, Turner winner 10 Dec — check around those dates, not before.
